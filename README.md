@@ -2,12 +2,14 @@
 
 # Hi there, I'm Om Tamrakar! 👋
 
-### BCA Student | Currently Learning Web Development
+### BCA Student | Web Development & Java Enthusiast
 ### Indore, Madhya Pradesh, India 🇮🇳
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-tamrakarhere)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkasera972-ai)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omkasera972@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=omkasera972-ai&color=blue&style=flat)
 
 </div>
 
@@ -34,6 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ---
 
@@ -45,7 +48,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkasera972-ai&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omkasera972-ai&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omkasera972-ai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -53,18 +56,29 @@
 
 ## 📁 Featured Projects
 
+### ☕ Java Mastery — Basics to Advanced
+> Structured Java learning repository with daily code uploads — from Hello World to Advanced concepts.
+> Covers Basics, OOP, DSA, Exception Handling, Collections & Multithreading.
+>
+> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+> ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
+>
+> [View Repository](https://github.com/omkasera972-ai/java-mastery)
+
 ### 🌐 Personal Portfolio — React.js
 > My personal portfolio website built with React.js
-> 
-> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-> 
+>
+> ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+>
 > [View Repository](https://github.com/omkasera972-ai/React-Websites)
 
 ### 💻 Web Development Projects — HTML & CSS
 > Collection of web development tasks and projects
-> 
-> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-> 
+>
+> ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+> ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+>
 > [View Repository](https://github.com/omkasera972-ai/Web-Development)
 
 ---
@@ -73,7 +87,7 @@
 
 - 📌 JavaScript — DOM, Events, Fetch API
 - 📌 React.js — Components, Hooks, State
-- 📌 Java — OOP, Data Structures
+- 📌 Java — OOP, DSA, Collections, Multithreading
 - 📌 Git & GitHub — Version Control
 
 ---
@@ -87,9 +101,8 @@
 <div align="center">
 
 ### 💬 Let's Connect!
-
 *"Every expert was once a beginner."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=omkasera972-ai&color=blue&style=flat)
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/om-tamrakarhere)
 
 </div>
