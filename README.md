@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Om Tamrakar! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Om+Tamrakar!+👋)](https://git.io/typing-svg)
 
 ### BCA Student | Web Development & Java Enthusiast
 ### Indore, Madhya Pradesh, India 🇮🇳
@@ -28,15 +28,41 @@
 
 ## 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=java" width="45"/><br/>Java
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="45"/><br/>HTML5
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="45"/><br/>CSS3
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React.js
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="45"/><br/>GitHub
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/>VS Code
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=idea" width="45"/><br/>IntelliJ
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -44,15 +70,15 @@
 
 <div align="center">
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkasera972-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+[![GitHub Streak](https://streak-stats.demolab.com?user=omkasera972-ai&theme=tokyonight&hide_border=true&fire=FF4500&ring=00BFFF&currStreakLabel=00BFFF&sideLabels=FF4500&dates=00BFFF&currStreakNum=FF4500&sideNums=00BFFF&background=0D1117&stroke=00BFFF)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkasera972-ai&layout=donut&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omkasera972-ai&theme=tokyonight)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omkasera972-ai&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=omkasera972-ai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub followers](https://img.shields.io/github/followers/omkasera972-ai?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/omkasera972-ai?style=for-the-badge&logo=github)
 
 </div>
-
----
 
 ## 📁 Featured Projects
 
@@ -94,7 +120,11 @@
 
 ## 📈 Activity Graph
 
-[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkasera972-ai&theme=tokyo-night&hide_border=true)](https://github.com/omkasera972-ai)
+<div align="center">
+
+[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkasera972-ai&bg_color=0D1117&color=00BFFF&line=FF4500&point=FFFFFF&area=true&hide_border=true)](https://github.com/omkasera972-ai)
+
+</div>
 
 ---
 
