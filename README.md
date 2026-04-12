@@ -44,9 +44,9 @@
 
 <div align="center">
 
-![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkasera972-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkasera972-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkasera972-ai&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkasera972-ai&layout=donut&theme=tokyonight&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=omkasera972-ai&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
