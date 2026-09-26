@@ -1,5 +1,8 @@
 name: Update Activity Graph
 on:
+  push:
+    branches:
+      - main
   schedule:
     # Runs every 12 hours
     - cron: "0 */12 * * *"
