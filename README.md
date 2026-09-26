@@ -122,7 +122,7 @@
 
 <div align="center">
 
-[![Om's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omkasera972-ai&bg_color=0D1117&color=00BFFF&line=FF4500&point=FFFFFF&area=true&hide_border=true)](https://github.com/omkasera972-ai)
+[![Om's Activity Graph](https://raw.githubusercontent.com/omkasera972-ai/omkasera972-ai/output/activity-graph.svg)](https://github.com/omkasera972-ai)
 
 </div>
 
