@@ -21,7 +21,6 @@
 - 🌱 Currently learning **HTML, CSS, JavaScript & React.js**
 - ☕ Love solving problems with **Java**
 - 🎯 Goal: Break into **Full-Stack Development**
-- 🏢 Targeting roles at **TCS, Infosys & Microsoft**
 - ⚡ Fun fact: I believe *"Every expert was once a beginner"*
 
 ---
