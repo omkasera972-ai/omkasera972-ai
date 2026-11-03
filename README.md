@@ -18,9 +18,9 @@
 ## 👨‍💻 About Me
 
 - 🎓 Pursuing **BCA in IT** at Sant Singaji Institute of Science and Management
-- 🌱 Currently learning **HTML, CSS, JavaScript & React.js**
+- 🌱 Currently learning **HTML, CSS & Springboot**
 - ☕ Love solving problems with **Java**
-- 🎯 Goal: Break into **Full-Stack Development**
+- 🎯 Goal: Break into **Java Development**
 - ⚡ Fun fact: I believe *"Every expert was once a beginner"*
 
 ---
@@ -39,12 +39,6 @@
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=css" width="45"/><br/>CSS3
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=js" width="45"/><br/>JavaScript
-</td>
-<td align="center" width="100">
-<img src="https://skillicons.dev/icons?i=react" width="45"/><br/>React.js
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=git" width="45"/><br/>Git
@@ -108,12 +102,7 @@
 
 ---
 
-## 🌱 Currently Learning
 
-- 📌 JavaScript — DOM, Events, Fetch API
-- 📌 React.js — Components, Hooks, State
-- 📌 Java — OOP, DSA, Collections, Multithreading
-- 📌 Git & GitHub — Version Control
 
 ---
 
