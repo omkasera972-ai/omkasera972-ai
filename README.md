@@ -102,20 +102,7 @@
 
 ---
 
-
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Om's Activity Graph](https://raw.githubusercontent.com/omkasera972-ai/omkasera972-ai/output/activity-graph.svg)](https://github.com/omkasera972-ai)
-
-</div>
-
----
-
+<div>
 <div align="center">
 
 ### 💬 Let's Connect!
